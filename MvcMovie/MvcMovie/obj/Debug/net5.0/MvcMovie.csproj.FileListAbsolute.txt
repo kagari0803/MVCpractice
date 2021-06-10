@@ -38,3 +38,4 @@ C:\SIDE PROJECTS\2021MVCpractice\MvcMovie\MvcMovie\obj\Debug\net5.0\ref\MvcMovie
 C:\SIDE PROJECTS\2021MVCpractice\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\SIDE PROJECTS\2021MVCpractice\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\SIDE PROJECTS\2021MVCpractice\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\SIDE PROJECTS\2021MVCpractice\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
