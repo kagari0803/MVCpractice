@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SIDE PROJECTS\\2021MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\SIDE PROJECTS\\2021MVCpractice\\MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\SIDE PROJECTS\\2021MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\SIDE PROJECTS\\2021MVCpractice\\MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SIDE PROJECTS\\2021MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\SIDE PROJECTS\\2021MVCpractice\\MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\SIDE PROJECTS\\2021MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\SIDE PROJECTS\\2021MVCpractice\\MVCpractice\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\kagar\\.nuget\\packages\\",
-        "outputPath": "C:\\SIDE PROJECTS\\2021MVCpractice\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\SIDE PROJECTS\\2021MVCpractice\\MVCpractice\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
